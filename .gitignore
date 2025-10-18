@@ -1,0 +1,8 @@
+*.amx
+*.log
+*.db
+*.so
+*.dll
+*.exe
+scriptfiles/*.txt
+scriptfiles/*.log
